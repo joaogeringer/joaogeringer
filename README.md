@@ -1,10 +1,10 @@
 Olá! Eu sou o João Geringer.
 
 
-- 🔭 Atualmente trabalhando e estudando com HTML, CSS, JavaScript e Python!
+- 🔭 Atualmente trabalho e estudo com HTML, CSS, JavaScript, Python & Flask!
 - 💬 Sempre buscando por novos aprendizados!
 - 📫 Entre em contato pelo e-mail: joaogeringer0@gmail.com
-- 😄 Pronomes: Ele/Dele
+
 
 <div align="left">
   <a href="https://github.com/joaogeringer">
