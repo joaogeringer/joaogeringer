@@ -1,7 +1,7 @@
 Olá! Eu sou o João Geringer.
 
 
-- 🔭 Atualmente trabalho e estudo com HTML, CSS, JavaScript e Python!
+- 🔭 Desenvolvedor Web HTML, CSS, JavaScript, Node.JS, Python, Git/GitHub!
 - 💬 Sempre buscando por novos aprendizados!
 - 📫 Entre em contato pelo e-mail: joaogeringer0@gmail.com
 
