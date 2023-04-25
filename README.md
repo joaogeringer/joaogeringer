@@ -1,7 +1,7 @@
 Olá! Eu sou o João Geringer.
 
 
-- 🔭 Desenvolvedor Web HTML, CSS, JavaScript, Node.JS, Python, Git/GitHub!
+- 🔭 Desenvolvedor Mobile construindo experiência em Java, Kotlin, Dart e Flutter!
 - 💬 Sempre buscando por novos aprendizados!
 - 📫 Entre em contato pelo e-mail: joaogeringer0@gmail.com
 
