@@ -1,7 +1,7 @@
 Olá! Eu sou o João Geringer.
 
 
-- 🔭 Desenvolvedor Mobile construindo experiência em Java, Kotlin, Dart e Flutter!
+- 🔭 Desenvolvedor Mobile construindo experiência em Java, Kotlin, Jetpack Compose e Flutter!
 - 💬 Sempre buscando por novos aprendizados!
 - 📫 Entre em contato pelo e-mail: joaogeringer0@gmail.com
 
