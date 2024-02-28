@@ -1,7 +1,7 @@
 Olá! Eu sou o João Geringer.
 
 
-- 🔭 Desenvolvedor Mobile construindo experiência em Java, Kotlin, Jetpack Compose e Flutter!
+- 🔭 Desenvolvedor Back End construindo experiência em Python, Node.JS, Django e Java!
 - 💬 Sempre buscando por novos aprendizados!
 - 📫 Entre em contato pelo e-mail: joaogeringer0@gmail.com
 
