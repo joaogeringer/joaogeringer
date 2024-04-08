@@ -1,7 +1,7 @@
 Olá! Eu sou o João Geringer.
 
 
-- 🔭 Desenvolvedor Back End construindo experiência em Python, Node.JS, Django e Java!
+- 🔭 Desenvolvedor Back End construindo experiência em Python, Django, Flask e Node.JS.
 - 💬 Sempre buscando por novos aprendizados!
 - 📫 Entre em contato pelo e-mail: joaogeringer0@gmail.com
 
